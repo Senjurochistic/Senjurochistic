@@ -6,7 +6,8 @@
   &nbsp;
   <a href="https://senjurosn1.atabook.org/">ata</a>
   &nbsp;·&nbsp;
- fixing my strawpage..........
+<a href="https://iamsenyuki.straw.page/">straw</a>
+  &nbsp;·&nbsp;
   <a href="https://iwcwithdingus.straw.page">BYI</a>
   &nbsp;
 </p>
