@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=SOULS%20CONSUMED&left_color=%23404040&right_color=%23b11b1b&format=true&logo=github" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=SOULS%20CONSUMED&left_color=%23404040&right_color=%23b11b1b&logo=github&query_only=true" />
 </p>
-
 
 
 <p align="center">
